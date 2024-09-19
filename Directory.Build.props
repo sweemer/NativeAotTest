@@ -1,0 +1,18 @@
+﻿<Project>
+	<PropertyGroup>
+		<DisableRuntimeMarshalling>true</DisableRuntimeMarshalling>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<ILLinkTreatWarningsAsErrors>true</ILLinkTreatWarningsAsErrors>
+		<InvariantGlobalization>true</InvariantGlobalization>
+		<IsAotCompatible>true</IsAotCompatible>
+		<LangVersion>latest</LangVersion>
+		<LinkStandardCPlusPlusLibrary>true</LinkStandardCPlusPlusLibrary>
+		<NoWarn>CS1591</NoWarn>
+		<Nullable>enable</Nullable>
+		<OptimizationPreference>Speed</OptimizationPreference>
+		<PublishAot>true</PublishAot>
+		<RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+		<TargetFramework>net8.0</TargetFramework>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	</PropertyGroup>
+</Project>
